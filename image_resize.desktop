@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+MimeType=image/*;
+Actions=ImageResize;
+
+[Desktop Action ImageResize]
+Name=Resize Image
+Icon=transform-scale
+Exec=/usr/bin/python3 $HOME/.local/bin/image_resize.py %F
