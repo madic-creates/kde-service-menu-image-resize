@@ -4,7 +4,7 @@ A KDE Dolphin context menu entry for resizing images using ImageMagick.
 
 Right-click on one or more images in Dolphin to resize them with configurable options.
 
-![Screenshot from dialog](screenshot_dialog.png)
+![Screenshot from dialog](./screenshot_dialog.png)
 
 ## Features
 
@@ -50,7 +50,7 @@ This copies:
 
 1. In Dolphin, right-click on one or more image files
 2. Select **Resize Image** from the context menu
-![Screenshot from context menu](screenshot_menu.png)
+![Screenshot from context menu](./screenshot_menu.png)
 3. Configure the resize settings:
    - **Resolution**: Target size (e.g. `1920`, `1920x1080`, `x1080`)
    - **Lanczos Filter**: Enable/disable high-quality resampling
