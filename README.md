@@ -50,6 +50,7 @@ This copies:
 
 1. In Dolphin, right-click on one or more image files
 2. Select **Resize Image** from the context menu
+
 ![Screenshot from context menu](./screenshot_menu.png)
 3. Configure the resize settings:
    - **Resolution**: Target size (e.g. `1920`, `1920x1080`, `x1080`)
