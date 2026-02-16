@@ -32,6 +32,9 @@ sudo pacman -S imagemagick python-pyqt6
 
 ## Installation
 
+1. Clone this repository or download the files
+2. Run the installation script:
+
 ```bash
 ./setup.sh -i
 ```
